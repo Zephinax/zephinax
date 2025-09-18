@@ -1,4 +1,3 @@
-![Header](./github-header-image.webp)
 <div align="center">
 <h2>Zephinax's Stats</h2>
 </div>
