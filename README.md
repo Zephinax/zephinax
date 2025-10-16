@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zephinax&hide_border=true&theme=transparent"/> 
+  <img alt="Mark streak" src="https://streak-stats.demolab.com/?user=Zephinax&hide_border=true&theme=transparent"/> 
 </p>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephinax&theme=transparent" height="180em" alt="Stats"/>
